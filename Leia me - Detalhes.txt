@@ -1,0 +1,11 @@
+Desafio 01 - Usei o caracter $ no final da frase para saber quando ela vai terminar.
+Desafio 02 - Criei uma Function para me verificar e retornar a cedula usada.
+Desafio 03 - Precisei mudar o nome de duas classes (TLabel para TLable_ e TMemo para TMemo_), elas estavam dando conflito com as nativas do Delphi. Creio que este problema sÛ ocorria por causa dos testes que estava fazendo, mas para previnir, resolvi deixar com o nome trocado mesmo.
+
+
+Caso eu seja, ou não, aprovado, gostaria de saber se eu poderia receber as soluções ideais para os desafios. Com essas soluções, eu posso ir aprimorando os meus conhecimentos.
+
+Muito obrigado pela oportunidade.
+
+Att,
+Felipe Maillo
